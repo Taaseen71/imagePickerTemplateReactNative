@@ -1,0 +1,12 @@
+{
+  "name": "photoUploader",
+  "displayName": "photoUploader",
+  "expo": {
+    "name": "photoUploader",
+    "slug": "photoUploader",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
